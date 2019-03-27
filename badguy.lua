@@ -8,8 +8,10 @@ badguy.optionSliderAutoLaugh = Menu.AddOptionSlider({"Utility", "Bad Guy"}, "Lau
 badguy.optionToxicFlame = Menu.AddOptionBool({"Utility", "Bad Guy"}, "Toxic Flame", false)
 badguy.optionLanguage = Menu.AddOptionCombo({"Utility","Bad Guy"}, "Language", {"Русский", "English"}, 0)
 badguy.phrase = {
-	"vk.com/cheats_dota",
-	"uc.zone",
+	"Уже можешь вставать АФК,лол",
+	"Соло",
+	"В могилу к матери",
+	"Додик,ахахах",
 	"Что-то ты слишком изи",
 	"Как два пальца",
 	"Слишком легко для меня"
